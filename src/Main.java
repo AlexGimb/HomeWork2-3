@@ -164,7 +164,7 @@ public class Main {
         int kristina10 = kristina + kristina10int;
         int kristinaYear10 = kristina10 * 12;
         System.out.println(" - Кристина после повышения получает " + kristina10 + " руб." + " Доход за месяц вырос на " + kristina10int + "руб.");
-        System.out.println(" Годовой доход Кристины вырос на " + (kristinaYear10 - kristinaYear) + " руб");
+        System.out.println(" Годовой доход Кристины вырос на " + (kristinaYear10 -kristinaYear) + " руб");
     }
 }
 
